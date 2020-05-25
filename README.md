@@ -87,7 +87,7 @@ All credit for the original mods goes to their creators.
 
 * [KettleSwordFang](https://github.com/kettleswordfang)
 
-[Reaper Mod][https://github.com/kettleswordfang/reapermod Reaper mod]
+[Reaper Mod](https://github.com/kettleswordfang/reapermod Reaper mod)
 
 * [TheMurderUnicorn](https://github.com/TheMurderUnicorn)
 
