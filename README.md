@@ -60,9 +60,13 @@ All credit for the original mods goes to their creators.
 * [Fris0uman](https://github.com/Fris0uman)
 
 [Extended Freeform mod](https://github.com/Fris0uman/Extended_freeform_mod)
+
 [Easy CBM Mods](https://github.com/Fris0uman/Easy-CBM-Mods)
+
 [No Stomach Mod](https://github.com/Fris0uman/No_Stomach_Mod)
+
 [No Health Mod](https://github.com/Fris0uman/No_Health_Mod)
+
 [**Tileset:** Chesthole32 Backup](https://github.com/Fris0uman/Chesthole_backup)
 
 * [EnviousBlade](https://github.com/EnviousBlade)
