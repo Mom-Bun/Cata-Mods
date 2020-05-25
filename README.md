@@ -63,19 +63,19 @@ All credit for the original mods goes to their creators.
 
 * [EnviousBlade](https://github.com/EnviousBlade)
 
-[Pneumatic weapons by EnviousBlade](https://github.com/EnviousBlade/Pneumatic-Weapons)
+[Pneumatic weapons](https://github.com/EnviousBlade/Pneumatic-Weapons)
 
 * [Dueu](https://github.com/Dueu)
 
-[Salvaged Robots Compilation by Dueu](https://github.com/Dueu/Salvaged_Robots_mod_compilation)
+[Salvaged Robots Compilation](https://github.com/Dueu/Salvaged_Robots_mod_compilation)
 
 * [Begginfokillz](https://github.com/begginfokillz)
 
-[Custom Bandit King Start by begginfokillz](https://github.com/begginfokillz/customBanditKingStartMod)
+[Custom Bandit King Start](https://github.com/begginfokillz/customBanditKingStartMod)
 
 * [TheGoatGod](https://github.com/TheGoatGod)
 
-[Goat Mod Complilation by TheGoatGod](https://github.com/TheGoatGod/Goats-Mod-Compilation)
+[Goat Mod Complilation](https://github.com/TheGoatGod/Goats-Mod-Compilation)
 
 * [FireBrandCoding](https://github.com/FirebrandCoding)
 
