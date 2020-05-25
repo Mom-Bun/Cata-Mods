@@ -84,6 +84,19 @@ All credit for the original mods goes to their creators.
 [Private Defense](https://github.com/FirebrandCoding/PrivateDefense)
 
 [AresMGS](https://github.com/FirebrandCoding/AresMGS)
+
+* [KettleSwordFang](https://github.com/kettleswordfang)
+[Reaper Mod][https://github.com/kettleswordfang/reapermod Reaper mod]
+
+* [TheMurderUnicorn](https://github.com/TheMurderUnicorn)
+[PrepperCache](https://github.com/TheMurderUnicorn/PrepperCache)
+
+* [DracoGriffin](https://github.com/DracoGriffin)
+[Draco's Mods](https://github.com/DracoGriffin/DG_Mods)
+
+* [Trivega](https://github.com/Trivega)
+** [Extra Scenarios](https://github.com/Trivega/Extra-Scenarios-for-Cataclysm-DDA)
+
  
 
 # Missing Mods?
