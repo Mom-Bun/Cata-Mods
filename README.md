@@ -87,11 +87,7 @@ All credit for the original mods goes to their creators.
 
 * [FireBrandCoding](https://github.com/FirebrandCoding)
 
-[Homestead Instruments Inc](https://github.com/FirebrandCoding/HomesteadInstrumentsInc)
-
-[Private Defense](https://github.com/FirebrandCoding/PrivateDefense)
-
-[AresMGS](https://github.com/FirebrandCoding/AresMGS)
+[Service Weapon](https://github.com/FirebrandCoding/ServiceWeapon)
 
 * [KettleSwordFang](https://github.com/kettleswordfang)
 
