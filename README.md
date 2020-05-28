@@ -105,6 +105,10 @@ All credit for the original mods goes to their creators.
 
 [Extra Scenarios](https://github.com/Trivega/Extra-Scenarios-for-Cataclysm-DDA)
 
+* [Medecube](https://github.com/Medecube/MoDK)
+
+[MODK](https://github.com/Medecube/MoDK)
+
  
 
 # Missing Mods?
