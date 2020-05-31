@@ -112,4 +112,4 @@ All credit for the original mods goes to their creators.
  
 
 # Missing Mods?
-If a mod isn't listed here and you feel like it should be added, feel free to let me know; I can be reached on the [Official Development Discord](https://discord.gg/RVuHA5g) or [Community Discord](https://discord.gg/jRpvA34) as Mom Bun 
+If a mod isn't listed here and you feel like it should be added, feel free to let me know; I can be reached on the [Official Development Discord](https://discord.gg/RVuHA5g) or [Community/Fan Discord](https://discord.gg/jRpvA34) as Mom Bun 
