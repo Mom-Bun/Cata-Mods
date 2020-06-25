@@ -114,6 +114,7 @@ All credit for the original mods goes to their creators.
 [Wild Living (Only up to date with stable](https://github.com/LambdaSix/Wild-Living)
 
 * [Kenan](https://github.com/Kenan2000)
+
 [New vivid Terrains, Archery Rebalancing and Renewed Pneumatics+new ammo mods - works with 0.E-2 and latest](https://discourse.cataclysmdda.org/t/new-vivid-terrains-mod-undeadpeople-tileset-sprite-support-archery-rebalancing-and-restored-pneumatics-new-ammo-mods/24024) 
 
 # Missing Mods?
