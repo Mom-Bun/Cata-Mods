@@ -111,7 +111,7 @@ All credit for the original mods goes to their creators.
 
 * [LambdaSix](https://github.com/LambdaSix)
 
-[Wild Living (Only up to date with stable](https://github.com/LambdaSix/Wild-Living)
+[Wild Living (Only up to date with stable)](https://github.com/LambdaSix/Wild-Living)
 
 * [Kenan](https://github.com/Kenan2000)
 
