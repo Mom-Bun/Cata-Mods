@@ -81,10 +81,6 @@ All credit for the original mods goes to their creators.
 
 [Custom Bandit King Start](https://github.com/begginfokillz/customBanditKingStartMod)
 
-* [TheGoatGod](https://github.com/TheGoatGod)
-
-[Goat Mod Complilation](https://github.com/TheGoatGod/Goats-Mod-Compilation)
-
 * [FireBrandCoding](https://github.com/FirebrandCoding)
 
 [Service Weapon](https://github.com/FirebrandCoding/ServiceWeapon)
@@ -111,7 +107,7 @@ All credit for the original mods goes to their creators.
 
 * [LambdaSix](https://github.com/LambdaSix)
 
-[Wild Living (Only up to date with stable](https://github.com/LambdaSix/Wild-Living)
+[Wild Living (Only up to date with stable)](https://github.com/LambdaSix/Wild-Living)
 
 * [Kenan](https://github.com/Kenan2000)
 
