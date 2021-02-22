@@ -81,6 +81,10 @@ All credit for the original mods goes to their creators.
 
 [Custom Bandit King Start](https://github.com/begginfokillz/customBanditKingStartMod)
 
+* [TheGoatGod](https://github.com/TheGoatGod)
+
+[Goat Mod Complilation](https://github.com/GMC-Modding-Team/Community-Mod-Compilation-redux)
+
 * [FireBrandCoding](https://github.com/FirebrandCoding)
 
 [Service Weapon](https://github.com/FirebrandCoding/ServiceWeapon)
