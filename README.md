@@ -23,12 +23,6 @@ All credit for the original mods goes to their creators.
 
 [Fewer Farms Mod](https://github.com/chaosvolt/cdda-fewer-farms-mod)
 
-* [Axema](https://github.com/Axema)
-
-[Secronom Zombies](https://github.com/Axema/Secronom-Zombies)
-
-[Vampiric Stuff](https://github.com/Axema/Vampiric-Stuff)
-
 * [Noctifer](https://github.com/Noctifer-de-Mortem)
 
 [Cata++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod)
