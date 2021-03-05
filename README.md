@@ -61,6 +61,8 @@ All credit for the original mods goes to their creators.
 
 [No Health Mod](https://github.com/Fris0uman/No_Health_Mod)
 
+[No Zombie Revivification](https://github.com/Fris0uman/No_Zombie_Revivification)
+
 [**Tileset:** Chesthole32 Backup](https://github.com/Fris0uman/Chesthole_backup)
 
 * [EnviousBlade](https://github.com/EnviousBlade)
